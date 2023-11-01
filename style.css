@@ -80,7 +80,7 @@ body {
 
 .text-box p {
   margin: 0;
-  text-align: left;
+  : left;
 }
 
 .text-box span {
@@ -246,7 +246,6 @@ body {
   left: 30%;
   font-size: 1rem;
   overflow: visible;
-  text-align: right !important;
 }
 
 #replay {
