@@ -309,13 +309,3 @@ const resolveFetch = () => {
 
 resolveFetch().then(animationTimeline());
 
-
-
-const winterTab = document.querySelector(".winter");
-
-
-
-if(window.innerWidth <= 500)
-  winterTab.innerHTML = "<i>- with love from winter <br> 2023</i>";
-else 
-  winterTab.innerHTML = "<i>- with love from winter, 2023</i>";
