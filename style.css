@@ -321,5 +321,6 @@ body {
   .nine p {
     font-size: 1.15rem;
     font-weight: lighter;
+    left: -30px;
   }
 }
