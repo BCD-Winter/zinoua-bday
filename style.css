@@ -245,6 +245,7 @@ body {
   top: 30%;
   left: 30%;
   font-size: 1rem;
+  margin-top: 20px;
   overflow: visible;
 }
 
@@ -323,6 +324,6 @@ body {
   }
 
   .winter{
-    left: 10%;
+    left: 21%;
   }
 }
